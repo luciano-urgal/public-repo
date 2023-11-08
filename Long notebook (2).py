@@ -15,7 +15,7 @@
 # MAGIC * Native ML Tools in Databricks
 # MAGIC   * SQL
 # MAGIC   * MLflowddd
-# MAGIC   * Scaled Hyperparameter Tuning
+# MAGIC   * Scaled Hyperparameter Tuningg
 # MAGIC   * Koalas
 # MAGIC * Package Management
 # MAGIC   * Notebook scoped, cluster scoped
