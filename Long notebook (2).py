@@ -20,7 +20,7 @@
 # MAGIC * Package Management
 # MAGIC   * Notebook scoped, cluster scoped
 # MAGIC   * Conda Runtime
-# MAGIC   * Some update
+# MAGIC   * Some updatedddd
 
 # COMMAND ----------
 
