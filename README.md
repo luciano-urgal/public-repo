@@ -1,2 +1,6 @@
 # public-repo
-public repo for testing
+public project for testing
+
+potato
+
+water
