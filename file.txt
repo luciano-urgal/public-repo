@@ -1,8 +1,8 @@
-foo
-gg
 
-file2
-text
-potato
+1 - Create Git folder with params
 
-glue
+2 - Test newest feature 
+
+3 - setGitInWorkspace(false)
+
+4 - try replacing some words
