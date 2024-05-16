@@ -1,8 +1,10 @@
 
-1 - Create Git folder with params
+1 - Works new text
 
-2 - Test newest feature 
+2 - Also when removing a lot of text
 
-3 - setGitInWorkspace(false)
+3 - checks text replacement like setGitInWorkspace(false)
 
-4 - try replacing some words
+4 - replacing text again
+
+Thats all!
