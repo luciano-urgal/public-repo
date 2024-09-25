@@ -1,2 +1,2 @@
 # Databricks notebook source
-print("Hello World and databricks")
+printf("Hello World and databricks")
